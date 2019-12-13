@@ -1,0 +1,22 @@
+{
+  "name": "getnovels",
+  "version": "1.0.0",
+  "description": "This is a persinal project to scrap the online novels that I like to read, the reason is to be able to read them offline.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZetCoby/getNovels.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZetCoby/getNovels/issues"
+  },
+  "homepage": "https://github.com/ZetCoby/getNovels#readme",
+  "dependencies": {
+    "crawler": "^1.2.1"
+  }
+}
