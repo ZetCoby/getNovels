@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ZetCoby/getNovels#readme",
   "dependencies": {
-    "crawler": "^1.2.1"
+    "crawler": "^1.2.1",
+    "jsdom": "^18.0.0"
   }
 }
